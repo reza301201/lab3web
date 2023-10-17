@@ -161,7 +161,7 @@ Kelas : TI.22.A1
 </form>
 ```
 
-<img width="960" alt="form" src="https://github.com/MohAzmii04/Lab3web/assets/115864496/4e6f0c06-b1f3-461b-a8dd-ff2569276cd8">
+![Screenshot 2023-10-16 201629](https://github.com/reza301201/lab3web/assets/116234001/816096f5-c568-4836-9281-8ea629ca97cd)
 
 **5. Menambahkan Style**
 
